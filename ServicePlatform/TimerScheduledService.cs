@@ -1,4 +1,7 @@
-﻿namespace ServicePlatform;
+﻿using Microsoft.Extensions.Hosting;
+using Microsoft.Extensions.Logging;
+
+namespace ServicePlatform;
 
 public abstract class TimerScheduledService : BackgroundService
 {
