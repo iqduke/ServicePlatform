@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicePlatform", "ServicePlatform\ServicePlatform.csproj", "{601D8B38-FC80-4B3E-AB9D-B32367DC5060}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicePlatform.Test", "ServicePlatform.Test\ServicePlatform.Test.csproj", "{9AE338A9-C991-44FD-9FD9-BF5E11DD5225}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{601D8B38-FC80-4B3E-AB9D-B32367DC5060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{601D8B38-FC80-4B3E-AB9D-B32367DC5060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{601D8B38-FC80-4B3E-AB9D-B32367DC5060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{601D8B38-FC80-4B3E-AB9D-B32367DC5060}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AE338A9-C991-44FD-9FD9-BF5E11DD5225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AE338A9-C991-44FD-9FD9-BF5E11DD5225}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AE338A9-C991-44FD-9FD9-BF5E11DD5225}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AE338A9-C991-44FD-9FD9-BF5E11DD5225}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
